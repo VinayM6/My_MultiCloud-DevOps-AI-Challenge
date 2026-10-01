@@ -1,0 +1,25 @@
+ Full Setup Checklist:
+
+ACCOUNTS TO CREATE:
+- [] GitHub account (github.com) — if not already created
+- [x] GCP account with $300 free credits (cloud.google.com/free)  https://www.clouddevopshub.com/blog/create-free-gcp-account-300-credits 
+- [] AWS account with free tier (aws.amazon.com/free)  https://www.clouddevopshub.com/blog/how-to-create-an-free-aws-account-in-2026-latest-step-by-step-guide   
+☐ Docker Hub account (hub.docker.com)
+☐ LinkedIn profile updated to "Open to Work" for DevOps roles
+
+SOFTWARE TO INSTALL:
+☐ VS Code (code.visualstudio.com)
+☐ GitHub Copilot extension in VS Code (free with student or trial)
+☐ Git (git-scm.com)
+☐ MobaXterm for Windows (mobaxterm.mobatek.net) — SSH client
+☐ Docker Desktop (docker.com/products/docker-desktop)
+
+COMMUNITY TO JOIN:
+☐ CloudDevOpsHub WhatsApp group — link from clouddevopshub.com
+☐ Connect with Vikas Ratnawat on LinkedIn
+☐ Follow CloudDevOpsHub on LinkedIn
+
+CONTENT TO WATCH:
+☐ Day 0 Video: https://www.youtube.com/watch?v=oe7Iq2ByXWM
+☐ FAQ Video: https://youtu.be/dexNHr0T55s
+☐ Read 5 success stories: https://www.clouddevopshub.com/s/pages/successstories
